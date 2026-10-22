@@ -1,49 +1,58 @@
-# John Quinn
+# John Quinn, MD, MPH, PhD, EMT-P
 
-**Emergency & trauma physician | Travel health | Clinical governance | Health data & informatics**
+**Emergency physician and paramedic | Medical leadership | Disaster and humanitarian health | Clinical governance**
 
-Internationally mobile clinician and consultant working at the interface of emergency care, population health and health information systems. Based in Prague (Czechia); previous locum emergency work in Gibraltar.
+Based in Prague, with clinical practice in the United Kingdom and international experience in prehospital care, assistance medicine, humanitarian response and health-system resilience. My work connects frontline care, public health, medical education and operational leadership.
 
-## Focus areas
+[ORCID](https://orcid.org/0000-0001-6877-8298) · [Professional biography](https://www.amcenters.com/en/prague/doctor/general-practitioners/john-quinn) · [Disaster Health Institute](https://disaster.health/about)
 
-- **Emergency & trauma medicine**: resuscitation, undifferentiated presentations, trauma systems, and emergency imaging.
-- **Point of injury (POI) care**: pre-hospital and remote care, early intervention, handover, and documentation that survives the journey from the point of injury to definitive care.
-- **Travel & expedition health**: pre-travel risk assessment, in-transit emergencies, medical repatriation, and access to care across borders.
-- **Clinical governance & patient safety**: audit, incident review, quality improvement, and learning systems.
-- **Medical education**: curriculum design, exam preparation, simulation, and short-course development.
-- **Healthcare technology & AI**: practical, safe use of AI-enabled tools in clinical and educational workflows.
+## Current work
 
-## Big data, metadata & population health
+- **Regional Chief Medical Officer, AXA Partners — CEEDACH:** clinical governance, medical assistance operations, cross-border care and medical transport.
+- **Chief Medical Advisor, American Medical Centers:** clinical leadership, quality improvement and medical education across an international clinic network.
+- **UK emergency medicine:** Associate Specialist / Senior Registrar at East Surrey Hospital, with locum Emergency Medicine consultant work in Grimsby.
+- **Secretary, Disaster Health Institute:** disaster-health research, education and international collaboration.
 
-I am interested in how clinical data becomes usable knowledge at scale:
+Medical registration in the United Kingdom and Ireland. Qualifications include an MD from Charles University, an MPH from the University of Illinois Chicago, and a PhD in Preventive Medicine from Charles University.
 
-- **Big data in health**: combining clinical, operational and public-health datasets to support surveillance, planning and quality improvement.
-- **Metadata & interoperability**: data dictionaries, coding standards (e.g. SNOMED CT, ICD, LOINC), and standards such as HL7 FHIR that let records and registries talk to each other.
-- **Trauma & emergency registries**: consistent minimum datasets, from point of injury through to outcome, for benchmarking and system learning.
-- **Biological & population health**: linking biological, environmental and demographic data to risk, outbreak detection, and prevention, including health risks for mobile populations.
-- **Data governance**: privacy, consent, de-identification and safe secondary use of health data (GDPR/EU context).
+## Selected work and experience
 
-## Geographies & health-system integration
+- **Ukraine and austere care:** prehospital medical support, scenario-based training, mass-casualty preparedness and research on resuscitation, evacuation and prolonged casualty care.
+- **Clinical governance and assistance operations:** clinical case review, escalation pathways, patient safety and coordination across healthcare providers and countries.
+- **Education and research:** co-author of a published evaluation of the DCR-Ukraine training programme, reporting 104 course completions across three iterations and documenting changes to prolonged-care teaching and local instructor development.
 
-- **Czechia / Central Europe**: EU health-system context, cross-border care and data-sharing frameworks.
-- **Gibraltar / Iberia**: small-jurisdiction health services, locum models, and cross-border patient flows.
-- **International / global**: comparing emergency and pre-hospital systems, and designing approaches that work across different resource settings.
-- **Integration**: connecting pre-hospital, emergency department, inpatient and public-health data so that one patient journey is one record.
+Earlier work includes emergency medicine in Gibraltar and humanitarian or medical leadership roles in Iraq, Jordan and Ukraine, including work with WHO-supported operations, MOAS and the OSCE.
 
-## What you'll find here
+## Resources on GitHub
 
-Open, non-clinical resources, with no patient-identifiable data:
+| Repository | What it contains |
+|---|---|
+| [Clinical governance templates](https://github.com/johnmquinnv/clinical-governance-templates) | Blank clinical-audit, incident-review and quality-improvement templates. |
+| [Medical education resources](https://github.com/johnmquinnv/medical-education-resources) | Study frameworks and curated emergency imaging and ultrasound learning resources. |
+| [Travel health checklist](https://github.com/johnmquinnv/travel-health-checklist) | General checklists for preparation, travel and return home. |
 
-- Travel-health checklists
-- Medical education resources and study frameworks
-- Clinical governance and QI templates
-- Notes on healthcare AI and health-data standards
+These are educational resources. Their intended audiences, review status and reuse information are stated in each repository.
 
-*Repositories will be added over time.*
+## Selected publications and commentary
 
-## Collaboration
+- Quinn J, et al. **[Forward Hemorrhage Control During Prolonged Evacuation](https://doi.org/10.1093/milmed/usag361).** *Military Medicine*, 2026.
+- Mallinson T, et al., including Quinn J. **[From Damage Control Resuscitation to Prolonged Care in Ukraine: Evolution of a Small Unit Training Program, 2023–2025](https://doi.org/10.1093/milmed/usag421).** *Military Medicine*, 2026.
+- Quinn J, et al. **[Prehospital Lessons From the War in Ukraine: Damage Control Resuscitation and Surgery Experiences From Point of Injury to Role 2](https://academic.oup.com/milmed/article/189/1-2/17/7255885).** *Military Medicine*; first published online in 2023.
+- Quinn J, Elenberg K, Elster E. **[The Future of Combat Medicine](https://warontherocks.com/the-future-of-combat-medicine/).** *War on the Rocks*, 3 September 2026 — expert commentary; subscriber access may be required.
 
-Open to collaboration on medical education, emergency and trauma systems, travel health, and health-data projects.
+## Health data and technology interests
+
+I am interested in practical uses of health data and AI for surveillance, clinical governance, education and coordination of care: usable metadata, trauma registries, coding standards, HL7 FHIR interoperability and responsible secondary use of data.
+
+**Planned resources:** introductory health-data standards notes and synthetic-data examples for clinical governance. These are development interests; no software implementation or validated clinical AI tool is currently published in these repositories.
+
+## Collaboration and contact
+
+I welcome collaboration on disaster and humanitarian health, emergency and prehospital systems, clinical governance, medical education and responsible health technology.
+
+- **Disaster-health collaboration:** use the [Disaster Health Institute contact section](https://disaster.health/) and ask for John Quinn.
+- **Resource feedback:** open an issue in the relevant repository. Public issues are for general resource feedback; do not include patient information, confidential organisational material or requests for individual medical advice.
 
 ---
-*Content here is educational and general in nature. It is not medical advice and contains no patient information.*
+
+*Updated 22 October 2026. This is a personal professional profile. Repository content does not represent an employer's or partner organisation's official policy or endorsement.*
