@@ -33,6 +33,20 @@ Earlier work includes emergency medicine in Gibraltar and humanitarian or medica
 
 These are educational resources. Their intended audiences, review status and reuse information are stated in each repository.
 
+## Research methods and portfolio examples
+
+My work includes survey design and structured data collection using Google Forms and Excel, structured interviews, focus groups, Delphi and modified Delphi methods, sampling, qualitative coding, metadata design and statistical analysis.
+
+| Collection | Public example |
+|---|---|
+| Research methods | [Study plans, instruments, coding and synthetic data](https://github.com/johnmquinnv/medical-education-resources/tree/main/research-methods) |
+| Training design | [Curriculum mapping, scenario and assessment example](https://github.com/johnmquinnv/medical-education-resources/tree/main/training-design) |
+| Assistance governance | [Responsibility and assurance worksheet](https://github.com/johnmquinnv/clinical-governance-templates/tree/main/assistance-governance) |
+| Health security and interoperability | [Public-source analysis framework](https://github.com/johnmquinnv/clinical-governance-templates/tree/main/health-security) |
+| Health data | [Synthetic governance dashboard](https://github.com/johnmquinnv/clinical-governance-templates/tree/main/data-demo) |
+
+These are newly prepared portfolio demonstrations. They are not employer deliverables, validated research instruments or accredited courses. See the [public portfolio roadmap](PORTFOLIO-ROADMAP.md) for status and next steps, and the [publication index](publications/README.md) for published work.
+
 ## Selected publications and commentary
 
 - Quinn J, et al. **[Forward Hemorrhage Control During Prolonged Evacuation](https://doi.org/10.1093/milmed/usag361).** *Military Medicine*, 2026.
@@ -44,7 +58,7 @@ These are educational resources. Their intended audiences, review status and reu
 
 I am interested in practical uses of health data and AI for surveillance, clinical governance, education and coordination of care: usable metadata, trauma registries, coding standards, HL7 FHIR interoperability and responsible secondary use of data.
 
-**Planned resources:** introductory health-data standards notes and synthetic-data examples for clinical governance. These are development interests; no software implementation or validated clinical AI tool is currently published in these repositories.
+**Available demonstration:** a downloadable governance dashboard using entirely synthetic records, with explicit metric definitions and team filtering. **Planned:** introductory health-data standards notes and further examples. No validated clinical AI tool is published in these repositories.
 
 ## Collaboration and contact
 
