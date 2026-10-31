@@ -11,13 +11,14 @@ Based in Prague, with clinical practice in the United Kingdom and international 
 - **Regional Chief Medical Officer, AXA Partners — CEEDACH:** clinical governance, medical assistance operations, cross-border care and medical transport.
 - **Chief Medical Advisor, American Medical Centers:** clinical leadership, quality improvement and medical education across an international clinic network.
 - **UK emergency medicine:** Associate Specialist / Senior Registrar at East Surrey Hospital, with locum Emergency Medicine consultant work in Grimsby.
+- **Adjunct Lecturer, College of Remote and Offshore Medicine (CoROM):** austere medicine, emergency care and curriculum development.
 - **Secretary, Disaster Health Institute:** disaster-health research, education and international collaboration.
 
 Medical registration in the United Kingdom and Ireland. Qualifications include an MD from Charles University, an MPH from the University of Illinois Chicago, and a PhD in Preventive Medicine from Charles University.
 
 ## Selected work and experience
 
-- **Ukraine and austere care:** prehospital medical support, scenario-based training, mass-casualty preparedness and research on resuscitation, evacuation and prolonged casualty care.
+- **Ukraine and austere care, 2014-present:** prehospital medical support, scenario-based training, mass-casualty preparedness and research on resuscitation, evacuation and prolonged casualty care.
 - **Clinical governance and assistance operations:** clinical case review, escalation pathways, patient safety and coordination across healthcare providers and countries.
 - **Education and research:** co-author of a published evaluation of the DCR-Ukraine training programme, reporting 104 course completions across three iterations and documenting changes to prolonged-care teaching and local instructor development.
 
@@ -49,6 +50,9 @@ These are newly prepared portfolio demonstrations. They are not employer deliver
 
 ## Selected publications and commentary
 
+- Barach P, Dalal S, Gerard S, Quinn J. **[NATO Medical Readiness and Russian Escalation](https://www.rusi.org/explore-our-research/publications/rusi-newsbrief/nato-medical-readiness-and-russian-escalation).** *RUSI Newsbrief*, 15 October 2026 — policy analysis; member access may be required.
+- Quinn J. **[Good Medicine Is Combat Power: Clinical Innovation and the Lessons of the Russo-Ukrainian War](https://warontherocks.com/good-medicine-is-combat-power-clinical-innovation-and-the-lessons-of-the-russo-ukrainian-war/).** *War on the Rocks*, 18 June 2026 — expert commentary.
+
 - Quinn J, et al. **[Forward Hemorrhage Control During Prolonged Evacuation](https://doi.org/10.1093/milmed/usag361).** *Military Medicine*, 2026.
 - Mallinson T, et al., including Quinn J. **[From Damage Control Resuscitation to Prolonged Care in Ukraine: Evolution of a Small Unit Training Program, 2023–2025](https://doi.org/10.1093/milmed/usag421).** *Military Medicine*, 2026.
 - Quinn J, et al. **[Prehospital Lessons From the War in Ukraine: Damage Control Resuscitation and Surgery Experiences From Point of Injury to Role 2](https://academic.oup.com/milmed/article/189/1-2/17/7255885).** *Military Medicine*; first published online in 2023.
@@ -58,7 +62,11 @@ These are newly prepared portfolio demonstrations. They are not employer deliver
 
 I am interested in practical uses of health data and AI for surveillance, clinical governance, education and coordination of care: usable metadata, trauma registries, coding standards, HL7 FHIR interoperability and responsible secondary use of data.
 
-**Available demonstration:** a downloadable governance dashboard using entirely synthetic records, with explicit metric definitions and team filtering. **Planned:** introductory health-data standards notes and further examples. No validated clinical AI tool is published in these repositories.
+**Available demonstration:** a [hosted synthetic governance preview (account access required)](https://john-quinn-governance-demo.cuinne.chatgpt.site) with team filtering, transparent numerators and denominators, CSV export and downloadable templates. The [source and verification notes](https://github.com/johnmquinnv/clinical-governance-templates/tree/main/data-demo) explain its fixed fictional dataset. **Planned:** introductory health-data standards notes and further examples. No validated clinical AI tool is published in these repositories.
+
+## Reuse and maintenance
+
+Original educational content uses [CC BY-NC 4.0](LICENSE); maintenance and demonstration code uses [MIT](LICENSE-CODE). Linked publications retain their own rights. See the [review record](REVIEW-RECORD.md) for the information required before recording external review or pilot completion.
 
 ## Collaboration and contact
 
@@ -69,4 +77,4 @@ I welcome collaboration on disaster and humanitarian health, emergency and preho
 
 ---
 
-*Updated 22 October 2026. This is a personal professional profile. Repository content does not represent an employer's or partner organisation's official policy or endorsement.*
+*Updated 31 October 2026. This is a personal professional profile. Repository content does not represent an employer's or partner organisation's official policy or endorsement.*

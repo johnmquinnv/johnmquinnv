@@ -1,24 +1,27 @@
 # Clinical Governance, Research & Education
 
-**Owner:** John Quinn · **Updated:** 22 October 2026
+**Owner:** John Quinn · **Updated:** 31 October 2026
 
-This is a repository-based public roadmap. It is not a native GitHub Projects board. “Published draft” means an educational demonstration is available; it does not mean clinical validation or accreditation.
+This public roadmap records deliverables and the evidence still needed for external review. All collection owners below are John Quinn. A published educational example is not evidence of clinical validation or accreditation.
 
-| Collection | Status | Current output | Next milestone |
+| Collection | Current output and evidence | Status on 31 October 2026 | Next milestone / completion evidence |
 |---|---|---|---|
-| Research methods | Published draft | [Templates and synthetic exercise](https://github.com/johnmquinnv/medical-education-resources/tree/main/research-methods) | Pilot instruments and obtain independent methodological feedback |
-| Training design | Published draft | [Curriculum map, scenario and rubric](https://github.com/johnmquinnv/medical-education-resources/tree/main/training-design) | Faculty review and a documented pilot |
-| Clinical governance | Published draft | [Audit, incident-review and QI templates](https://github.com/johnmquinnv/clinical-governance-templates) | Independent review and context-specific adaptation |
-| Assistance governance | Published draft | [Generic assurance framework](https://github.com/johnmquinnv/clinical-governance-templates/tree/main/assistance-governance) | Review responsibilities and usability with intended users |
-| Health security | Published draft | [Public-source analysis framework](https://github.com/johnmquinnv/clinical-governance-templates/tree/main/health-security) | Add a verified public-source worked example |
-| Governance data demonstration | Published demonstration | [Synthetic dashboard](https://github.com/johnmquinnv/clinical-governance-templates/tree/main/data-demo) | Add documented data-quality checks before any expanded use |
-| Publications | Published index | [Selected bibliography](publications/README.md) | Add verified public presentations and further publications |
-| DCP curriculum | In development; materials private | Public overview in the training collection | Complete review and release decisions before sharing course materials |
+| Research methods | [Synthetic worked analysis and reproducible checker](https://github.com/johnmquinnv/medical-education-resources/tree/main/research-methods) | Published example; automated data checks added | Independent methods review and a documented instrument pilot |
+| Training design | [Curriculum, scenario, assessment and pilot protocol](https://github.com/johnmquinnv/medical-education-resources/tree/main/training-design) | Pilot package prepared; no participant pilot recorded | Faculty reviewer identified; pilot observations, revision decisions and follow-up recorded |
+| Clinical governance | [Editable templates and printable PDF](https://github.com/johnmquinnv/clinical-governance-templates) | Published educational templates | Independent review against the intended service's requirements |
+| Assistance governance | [Responsibility and assurance worksheet](https://github.com/johnmquinnv/clinical-governance-templates/tree/main/assistance-governance) | Published educational framework | Intended-user walkthrough with issues and responses documented |
+| Health security | [Ukraine civilian-military interoperability case study](https://github.com/johnmquinnv/clinical-governance-templates/blob/main/health-security/ukraine-interoperability-2014-2026.md) | Public-source worked example added | Ukrainian clinical and methods review; record feedback and disposition |
+| Governance data demonstration | [Hosted preview (account access required)](https://john-quinn-governance-demo.cuinne.chatgpt.site) and [verification record](https://github.com/johnmquinnv/clinical-governance-templates/blob/main/data-demo/VERIFICATION.md) | Demonstration and automated calculation checks added | Usability feedback using synthetic data |
+| Publications | [Six-entry selected bibliography](publications/README.md) | RUSI and June War on the Rocks entries added; author credit retained | Add further verified publications and public presentations |
+| Travel health | [Checklists and printable PDF](https://github.com/johnmquinnv/travel-health-checklist) | Printable edition added | Independent clinical review and event-driven guidance updates |
+| DCP curriculum | [Public development overview](https://github.com/johnmquinnv/medical-education-resources/tree/main/training-design) | Course materials remain private | Agree reviewers, governance and release decisions before course publication |
 
-## Workflow
+## Review record
 
-Planned → In progress → Under review → Published. Move an item to Under review only when a reviewer has actually been assigned. Record reviewer scope and date; do not imply sign-off from a column name alone.
+Use [REVIEW-RECORD.md](REVIEW-RECORD.md) for the reviewer, scope, date, findings, response and decision. Reviewer assignment and external sign-off are not recorded as of this update. A computational check or desk review does not substitute for independent clinical review or a participant pilot.
 
-## Scope
+## Maintenance and reuse
 
-Public entries describe generic educational work. Employer operations, real cases, unpublished co-authored papers and restricted materials stay outside this roadmap. The licence decision remains pending.
+Each repository checks internal file links on pushes and pull requests. A weekly workflow also checks external links; access restrictions and timeouts are reported for manual review. Source and content review are separate from link availability.
+
+Original educational content uses [CC BY-NC 4.0](LICENSE); maintenance and demonstration code uses [MIT](LICENSE-CODE). Third-party publications and private materials retain their own rights. See [repository metadata](REPOSITORY-METADATA.md) for prepared topic tags and the outstanding settings step.
